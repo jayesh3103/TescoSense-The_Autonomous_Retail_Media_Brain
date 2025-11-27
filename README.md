@@ -59,7 +59,7 @@ The easiest way to get up and running.
 
     ```bash
     git clone https://github.com/jayesh3103/TescoSense-The_Autonomous_Retail_Media_Brain.git
-    cd tescosense
+    cd TescoSense-The_Autonomous_Retail_Media_Brain
     ```
 
 2.  **Build and Run**:
