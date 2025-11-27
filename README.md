@@ -58,7 +58,7 @@ The easiest way to get up and running.
 1.  **Clone the repository**:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/jayesh3103/TescoSense-The_Autonomous_Retail_Media_Brain.git
     cd tescosense
     ```
 
