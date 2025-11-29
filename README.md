@@ -1,6 +1,6 @@
 # TescoSense – The Autonomous Retail Media Brain 🧠🛒
 
-> **Winner/Participant of the Tesco Retail Media Innovation Jam**
+> **Participant of the Tesco Retail Media Innovation Jam**
 
 TescoSense is a cutting-edge **Autonomous Multi-Agent System** designed to revolutionize retail media. It acts as an intelligent "brain" that autonomously senses market conditions, strategies campaigns, generates creative assets, and books media slots in real-time.
 
